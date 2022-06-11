@@ -1,14 +1,14 @@
 @font-face {
     font-family: 'montage';
-    src: url('./Assets/fonts/Montages.ttf') format('truetype');
+    src: url('../fonts/Montages.ttf') format('truetype');
 }
 @font-face {
     font-family: 'superion';
-    src: url('./Assets/fonts/Superion.otf') format('opentype');
+    src: url('../fonts/Superion.otf') format('opentype');
 }
 @font-face {
     font-family: 'wd';
-    src: url('./Assets/fonts/wd.otf') format('opentype');
+    src: url('../fonts/wd.otf') format('opentype');
 }
 *{
     margin: 0;
